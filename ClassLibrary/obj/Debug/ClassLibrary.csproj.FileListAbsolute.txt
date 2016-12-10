@@ -1,0 +1,25 @@
+E:\CGPYr2\Concurrent Network\Wk 4\Practical\SimpleClientServer\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\CGPYr2\Concurrent Network\Wk 4\Practical\SimpleClientServer\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Wk 4\Practical\SimpleClientServer\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Wk 4\Practical\SimpleClientServer\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Wk 4\Practical\SimpleClientServer\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClassLibrary\obj\Debug\ClassLibrary.pdb

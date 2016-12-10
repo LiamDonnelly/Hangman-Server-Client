@@ -1,0 +1,58 @@
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe.config
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.pdb
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.exe
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.pdb
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe.config
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.pdb
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.exe
+E:\CGPYr2\Concurrent Network\Assignment\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.pdb
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe.config
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.exe
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.pdb
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.pdb
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.dll
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.pdb
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+E:\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form2.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe.config
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.exe
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.dll
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form1.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form2.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe.config
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.exe
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.exe
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\bin\Debug\ClientForm.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.dll
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\bin\Debug\ClassLibrary.pdb
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form1.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Form2.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\Documents\MemoryStick\CGPYr2\Concurrent Network\Assignment\Chat - BackupWithGame\ConcurrentNetwork\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
